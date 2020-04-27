@@ -127,7 +127,7 @@ See :ref:`mqtt-using_with_home_assistant`.
 
 .. program:: esphome wizard
 
-The ``esphome <CONFIG> wizard`` command starts the esphome configuration creation wizard.
+The ``esphome <CONFIG> wizard`` command starts the ESPHome configuration creation wizard.
 
 ``mqtt-fingerprint`` Command
 ----------------------------
@@ -164,7 +164,7 @@ node configuration file. This is useful if you're not using MQTT discovery.
 
 .. program:: esphome dashboard
 
-The ``esphome <CONFIG> dashboard`` command starts the esphome dashboard server for using esphome
+The ``esphome <CONFIG> dashboard`` command starts the ESPHome dashboard server for using ESPHome
 through a graphical user interface.
 
 .. option:: --port PORT
